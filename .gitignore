@@ -1,0 +1,8 @@
+**/build/
+.idea
+/bin/*
+/lib/*
+.vscode/*
+/data/**
+2dmapping
+
